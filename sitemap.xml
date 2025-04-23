@@ -17,17 +17,22 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/shrimp-alfredo/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/ultimate-burger/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
     <url>
         <loc>
             http://localhost:8000/home/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/registration/
         </loc>
     </url>
     <url>
