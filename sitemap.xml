@@ -7,6 +7,16 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/the-steak-dinner/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/cajun-chicken/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
@@ -18,11 +28,6 @@
     <url>
         <loc>
             http://localhost:8000/registration/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/shopping/
         </loc>
     </url>
     <url>
