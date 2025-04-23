@@ -1,4 +1,4 @@
-yanni # cd-wordpress
+# cd-wordpress update
 continuous deployment wordpress
 
 TLDR;
