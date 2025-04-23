@@ -2,17 +2,17 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/the-steak-dinner/
         </loc>
     </url>
     <url>
         <loc>
             http://localhost:8000/cajun-chicken/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/chicken-souvlaki/
         </loc>
     </url>
     <url>
